@@ -26,6 +26,10 @@ These are small learning exercises, not currently documented as live hosted appl
 
 ## Live Demo
 
-[Open Med Spa ZIP & Weather Lookup](https://complex-api-med-spa-ry0j.onrender.com/)
+[Launch the Med Spa API App](https://complex-api-med-spa-ry0j.onrender.com/)
+
+The application is hosted on Render.
+
+
 
 The application is hosted on Render.
